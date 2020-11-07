@@ -57,8 +57,8 @@ Default login : `admin:admin`.
 
 Feel free to update docker-compose.yml to match with your preferences. 
 
-## Credits
+## Credits
 
-https://hub.docker.com/r/dperson/openvpn-client
-https://hub.docker.com/r/dperson/transmission
+https://hub.docker.com/r/dperson/openvpn-client \
+https://hub.docker.com/r/dperson/transmission \
 https://hub.docker.com/r/dperson/nginx
