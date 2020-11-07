@@ -55,7 +55,9 @@ From a browser, type `http://<localhost_or_IP_OF_YOUR_HOST>/transmission/web`.
 
 Default login : `admin:admin`.
 
-Feel free to update docker-compose.yml to match with your preferences. 
+You must edit the Transmission configuration to set the download directory at `/downloads`.
+
+Feel free to update `docker-compose.yml` to match with your preferences. 
 
 ## Credits
 
