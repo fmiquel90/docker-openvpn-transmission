@@ -49,7 +49,7 @@ curl api.ipify.org
 
 You must get a different IP.
 
-## Using it
+## Use
 
 From a browser, type `http://<localhost_or_IP_OF_YOUR_HOST>/transmission/web`.
 
